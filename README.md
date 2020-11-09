@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 # GIF App using GIPHY API
 
@@ -7,7 +7,7 @@
 ### A simple shareable Flutter App using GIPHY API
 
 #### 🔥🔥🔥
-</center>
+</p>
 
 
 
